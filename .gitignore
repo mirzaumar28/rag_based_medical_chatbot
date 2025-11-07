@@ -1,0 +1,8 @@
+.venv
+.venv-1
+.vscode
+data
+medbot
+medical_chatbot.egg-info
+p10venv
+.env
